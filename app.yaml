@@ -1,4 +1,4 @@
-application: your-app-id-here
+application: kf-proxy-152418
 version: first
 module: default
 runtime: python27
